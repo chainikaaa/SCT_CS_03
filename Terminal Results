@@ -1,0 +1,26 @@
+PS C:\Users\chain\OneDrive\Desktop\cyber security\password strength checker> python pass.py
+=== Password Strength Checker ===
+Enter your password: hello123
+
+Password Strength: Moderate
+Suggestions to improve your password:
+- Add uppercase letters (A-Z)
+- Include special characters (e.g., !@#$%)
+PS C:\Users\chain\OneDrive\Desktop\cyber security\password strength checker> python pass.py
+=== Password Strength Checker ===
+Enter your password: 123
+
+Password Strength: Very Weak
+Suggestions to improve your password:
+- Use at least 8 characters
+- Add lowercase letters (a-z)
+- Add uppercase letters (A-Z)
+- Include special characters (e.g., !@#$%)
+PS C:\Users\chain\OneDrive\Desktop\cyber security\password strength checker> python pass.py
+=== Password Strength Checker ===
+Enter your password: S@vc02#
+
+Password Strength: Strong
+Suggestions to improve your password:
+- Use at least 8 characters
+PS C:\Users\chain\OneDrive\Desktop\cyber security\password strength checker> 
